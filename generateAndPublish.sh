@@ -50,7 +50,7 @@ generateAndPublish() {
         echo "$generate_output"
         # check output for success before publishing
         if echo $generate_output | grep -q 'Successfully generated docs'; then
-            npx @techdocs/cli publish --publisher-type $2 --storage-name $3 --entity $namespace/component/$name --directory $techdocs_temp_dir
+            npx @techdocs/cli publish --publisher-type $2 --storage-name $3 --entity $namespace/$kind/$name --directory $techdocs_temp_dir
         fi
     else
         echo "Target:             " $target_absolute_path

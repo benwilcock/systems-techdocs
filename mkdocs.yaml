@@ -6,5 +6,5 @@ nav:
 plugins:
   - techdocs-core
 metadata:
-  namespace: where-for-dinner
+  namespace: default
 kind: system
