@@ -33,7 +33,7 @@ Where for Dinner also has two optional components:
 
 The high level data flow looks like the following:
 
-![High Level Architecture](https://github.com/vmware-tanzu/application-accelerator-samples/blob/9d25e547a7babb67a45cbdc20f9c22b566f17f00/where-for-dinner/doc/images/DinnerHighLevelArch.png)
+![High Level Architecture](https://github.com/vmware-tanzu/application-accelerator-samples/blob/9d25e547a7babb67a45cbdc20f9c22b566f17f00/where-for-dinner/doc/images/DinnerHighLevelArch.png?raw=true)
 
 Note that the event channel protocols are not specified as they can be swapped out with different implementations.  By default, the application uses the RabbitMQ binding for Spring Cloud Streams, but could be swapped for any supported binding.  Because the channel end points are implements as Java `functions`, they are support `CloudEvents` and the event channels can be orchestrated through other mechanisms such as Knative eventing.  As you will see later on, there are provided deployment configurations in this repository for RabbitMQ service binding and Knative eventing.
 
@@ -41,7 +41,7 @@ Note that the event channel protocols are not specified as they can be swapped o
 
 The default build and deployment architecture uses Spring Cloud Streams as the asynchronous messaging implementation with RabbitMQ as the default binding.  The messaging topology is depicted in the following abridged architecture diagram: 
 
-![Spring Cloud Streams Messaging](https://github.com/vmware-tanzu/application-accelerator-samples/blob/9d25e547a7babb67a45cbdc20f9c22b566f17f00/where-for-dinner/doc/images/SCSMessaging.png)
+![Spring Cloud Streams Messaging](https://github.com/vmware-tanzu/application-accelerator-samples/blob/9d25e547a7babb67a45cbdc20f9c22b566f17f00/where-for-dinner/doc/images/SCSMessaging.png?raw=true)
 
 ### Knative Eventing 
 
