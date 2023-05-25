@@ -13,11 +13,14 @@ Along with Spring Cloud Stream, CloudEvents and Knative eventing are supported a
 
 The default application configuration supports static out of the box data sets; however, is also contains options to configure alternative data sources.  Lastly, the asynchronous messaging model supports the ability to add applications to the extend functionality.
 
+## Create & Customize Your Own Version
+
+This entire Where For Dinner application and all its microservices can be creating using an "Accelerator." You can use this accelerator from inside your IDE using the [Tanzu Application Platform Application Accelerator Extension](https://network.tanzu.vmware.com/products/tanzu-application-platform/), or from the [Tanzu Application Platform Developer Portal](#) by cliclikg the "Create (+)" option in the left hand navigation menu. Look for the "Where For Dinner" accelerator and fill in the various form fields to customize your initial project. Once you have your accelerator project, you can customise further it as you wish.
+
 ## Application Architecture
 
 Where for Dinner consists of five main service modules:
 
-* A gateway (`where-for-dinner-api-gateway` or Commercial Spring Cloud Gateway)
 * A web UI service (`where-for-dinner-ui`)
 * An API service for submitting search requests (`where-for-dinner-search`)
 * A processor service for executing searches against availability sources and managing results (`where-for-dinner-search-proc`)
