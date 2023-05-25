@@ -1,4 +1,4 @@
-# Application Architecture
+# System Architecture
 
 Where for Dinner consists of the core service modules:
 

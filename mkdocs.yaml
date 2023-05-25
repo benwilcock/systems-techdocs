@@ -2,9 +2,9 @@ site_name: where-for-dinner
 site_description: A Microservice Reference Application for Tanzu Application Platform
 site_author: user:ben.wilcock
 nav:
-  - About: index.md
+  - About This System: index.md
   - How It Works: how-it-works.md
-  - Application Architecture: architecture.md
+  - System Architecture: architecture.md
   - Create Your Own: create-your-own.md
 plugins:
   - techdocs-core
