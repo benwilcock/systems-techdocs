@@ -1,6 +1,6 @@
 # Where For Dinner?
 
-The Where for Dinner dining search solution is a multi micro-service application that implements a relatively contemporary architecture comprised of the following technologies:
+The Where for Dinner dining search solution is a microservice application that implements a relatively contemporary architecture comprised of the following technologies:
 
 * ReactJS Web Front End
 * Reactive REST Web Services (WebFlux)
@@ -13,9 +13,9 @@ Along with Spring Cloud Stream, CloudEvents and Knative eventing are supported a
 
 The default application configuration supports static out of the box data sets; however, is also contains options to configure alternative data sources.  Lastly, the asynchronous messaging model supports the ability to add applications to the extend functionality.
 
-## Create & Customize Your Own Version
+## Create & Customize This Application
 
-This entire Where For Dinner application and all its microservices can be creating using an "Accelerator." You can use this accelerator from inside your IDE using the [Tanzu Application Platform Application Accelerator Extension](https://network.tanzu.vmware.com/products/tanzu-application-platform/), or from the [Tanzu Application Platform Developer Portal](#) by cliclikg the "Create (+)" option in the left hand navigation menu. Look for the "Where For Dinner" accelerator and fill in the various form fields to customize your initial project. Once you have your accelerator project, you can customise further it as you wish.
+This entire Where For Dinner application and all its microservices can be creating using the "[Where For Dinner Accelerator.](https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/where-for-dinner)" You can use this accelerator from inside supported IDEs using the [Tanzu Application Platform Application Accelerator Extension](https://network.tanzu.vmware.com/products/tanzu-application-platform/), or from the [Tanzu Application Platform Developer Portal](#) by cliclikg the "Create (+)" option in the left hand navigation menu. Look for the "Where For Dinner" accelerator and fill in the various form fields to customize your initial project. Once you have your accelerator project, you can customise further it as you wish.
 
 ## Application Architecture
 
