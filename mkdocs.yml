@@ -1,7 +1,0 @@
-# This is used to build the TechDocs for this component and is referenced here: https://github.com/benwilcock/backstage-catalogs/blob/main/system-wheres-for-dinner.yml
-site_name: 'where-for-dinner'
-site_description: 'A Microservice Reference Application for Tanzu Application Platform'
-site_author: user:ben.wilcock
-
-nav:
-  - About: 'index.md'
