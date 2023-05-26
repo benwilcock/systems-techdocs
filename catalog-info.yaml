@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: whee-for-dinner-techdocs
+spec:
+  type: dir
+  targets:
+    - "mkdocs.yaml"
+    - "where-for-dinner-ui/mkdocs.yaml"

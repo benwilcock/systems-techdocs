@@ -1,0 +1,10 @@
+site_name: where-for-dinner-ui
+site_description: The UI component for the Wher For Dinner system
+site_author: user:ben.wilcock
+nav:
+  - About This Component: index.md
+plugins:
+  - techdocs-core
+metadata:
+  namespace: default
+kind: component
