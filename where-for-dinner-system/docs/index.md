@@ -21,6 +21,8 @@ Read on to find out:
 * [How the application was constructed (its architecture)](architecture.md)
 * [How it started life as an Application Accelerator and how to build it yourself](create-your-own.md)
 
+[Try Where For Dinner](http://where-for-dinner.tap-next.blah.cloud/)
+
 
 ## Want To Build These TechDocs?
 

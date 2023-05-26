@@ -3,3 +3,5 @@ The UI for Where For Dinner is designed for use in modern browsers and is constr
 ![Where For Dinner?](https://github.com/benwilcock/where-for-dinner-techdocs/blob/main/docs/images/AppHomeScreen.png?raw=true)
 
 The source code for this component can be found within the [Where For Dinner Application Accelerator mono-repo in GitHub](https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/where-for-dinner)
+
+[Try Where For Dinner](http://where-for-dinner.tap-next.blah.cloud/)
