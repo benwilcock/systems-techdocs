@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: whee-for-dinner-techdocs
+  name: where-for-dinner-techdocs
 spec:
   type: dir
   targets:

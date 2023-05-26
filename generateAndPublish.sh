@@ -83,7 +83,7 @@ main() {
     techdocs_temp_dir=$(mktemp -d 2>/dev/null || mktemp -d -t 'techdocs')
 
     # Generate and publish for root catalog yaml
-    generateAndPublish $1 $2 $3
+    # generateAndPublish $1 $2 $3
 
     # Generate and publish for each target yaml file in the root catalog yaml
     number_of_targets=$(yq e '.spec.targets | length' $1)
