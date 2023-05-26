@@ -5,5 +5,5 @@ metadata:
 spec:
   type: dir
   targets:
-    - "mkdocs.yaml"
+    - "where-for-dinner-system/mkdocs.yaml"
     - "where-for-dinner-ui/mkdocs.yaml"
