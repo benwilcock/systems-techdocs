@@ -16,4 +16,6 @@ When called during a `docker run` of the `techdocs` image, the above script can 
 docker run --rm --env-file .env -v ./:/tmp/catalog/ techdocs /tmp/catalog/catalog-info.yaml awsS3 tap-techdocs
 ```
 
-The `catalog-info.yaml` is used as a signpost to say which techdocs the script should attempt to build and publish.
+The [catalog-info.yaml](catalog-info.yaml) in the root of this repo is used as a signpost to say which techdocs the script should attempt to build and publish.
+
+Once you have built the `techdocs` image, you can use it anywhere you have a a similar `catalog-info.yaml` file. You are not restricted to only building Where For Dinner. 
