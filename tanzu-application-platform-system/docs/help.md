@@ -1,36 +1,10 @@
 # Getting Help With Tanzu Application Platform
 
-## Platform Documentation.
+## The Tanzu Application Platform Documentation.
 
 The documentation for all versions of Tanzu Application Platform can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html).
 
-## Tanzu CLI
-
-Here are some basic commands you may find useful when working with workloads that are running on the platform.
-
-Listing your workloads (and their status):
-
-```bash
-tanzu apps workload list
-```
-
-Getting the details of a workload (including its URL if that is available):
-
-```bash
-tanzu apps workload get <workload-name>
-```
-
-Creating or updating a workload (requires `workload.yaml` file):
-
-```bash
-tanzu apps workload apply -f path/to/workload.yaml
-```
-
-Deleting a workload (removes it from the system):
-
-```bash
-tanzu apps workload delete <workload-name>
-```
+## Getting Help With The Tanzu CLI
 
 You can get help with the Tanzu CLI from the tool itself. Most (if not all) of the commands have help available for them. To get help, use the command `help`. Below are some examples.
 
@@ -46,11 +20,27 @@ Get help with the **apps** plugin:
 tanzu apps help
 ```
 
-Get help working with **workloads**:
+Get help manipulating **workloads** with the apps plugin:
 
 ```bash
 tanzu apps workload help
 ```
+
+List all plugins (including both installed and not installed):
+
+```bash
+tanzu plugin list
+```
+
+Get the version of your `tanzu` cli tool:
+
+```bash
+tanzu version
+```
+
+Check out the [Tanzu CLI Command Reference](https://docs.vmware.com/en/VMware-Tanzu/services/vmware-tanzu-cli-ref/GUID-index.html) guide for more details.
+
+
 
 ## Raising Issues For The Platform
 
