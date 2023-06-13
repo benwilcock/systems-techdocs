@@ -7,3 +7,4 @@ spec:
   targets:
     - "where-for-dinner-system/mkdocs.yaml"
     - "where-for-dinner-ui/mkdocs.yaml"
+    - "tanzu-application-platform-system/mkdocs.yaml"

@@ -1,0 +1,16 @@
+site_name: tanzu-application-platform
+site_description: Tanzu Application Platform
+site_author: user:ben.wilcock
+nav:
+  - 'Introduction': index.md
+  - 'Overview': overview.md
+  - 'Use Cases': usecases.md
+  - 'Get Started (Platform Operators)': get-started-ops.md
+  - 'Get Started (Application Developers)': get-started-devs.md
+  # - 'How It Works': how-it-works.md
+  # - 'System Architecture': architecture.md
+plugins:
+  - techdocs-core
+metadata:
+  namespace: default
+kind: system
