@@ -5,10 +5,13 @@ nav:
   - 'Introduction': index.md
   - 'Overview': overview.md
   - 'Use Cases': usecases.md
-  - 'Get Started (Platform Operators)': get-started-ops.md
-  - 'Get Started (Application Developers)': get-started-devs.md
+  - 'Getting Help': help.md
+  # - 'Getting Started (Platform Operators)': get-started-ops.md
+  # - 'Getting Started (Application Developers)': get-started-devs.md
   # - 'How It Works': how-it-works.md
   # - 'System Architecture': architecture.md
+  # - 'The Tanzu CLI': tanzu-cli.md
+  # - 'Application Accelerators': accelerators.md
 plugins:
   - techdocs-core
 metadata:
