@@ -12,19 +12,19 @@ Look out for these features and more in your IDE:
 
 ## JetBrains IntelliJ IDEA 
 
-Popular Java IDE created by JetBrains.
+Tanzu Application Platforms includes IDE plugins for this popular Java IDE from Jetbrains. For installation instructions, see the [plugin documentation](#plugin-documentation) section. For binary downloads, see the [plugin downloads](#plugin-downloads) section. 
 
 ![Tanzu Panel And Debug In IntelliJ](./images/tanzu-panel-intellij-debug-running.png)
 
 ## Microsoft Visual Studio (VS) Code
 
-Popular Multi-language IDE created by Microsoft.
+Tanzu Application Platforms includes IDE plugins for this popular multi-language IDE from Microsoft. For installation instructions, see the [plugin documentation](#plugin-documentation) section. For binary downloads, see the [plugin downloads](#plugin-downloads) section. 
 
 ![Accelerator Plugin In VS Code](./images/live-debug-vscode.png)
 
 ## Microsoft Visual Studio
 
-Popular .Net IDE created by Microsoft.
+Tanzu Application Platforms includes IDE plugins for this popular C# .Net language IDE from Microsoft. For installation instructions, see the [plugin documentation](#plugin-documentation) section. For binary downloads, see the [plugin downloads](#plugin-downloads) section. 
 
 ![](./images/tanzu-apply-workload-visual-studio.png)
 

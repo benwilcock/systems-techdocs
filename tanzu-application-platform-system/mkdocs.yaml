@@ -11,7 +11,7 @@ nav:
   - 'Tanzu CLI': tanzu-cli.md
   - 'Tanzu IDE Plugins': ide-plugins.md
   - 'Tanzu Learning Centers': learning-centers.md
-  - 'Tanzu Developer Portal': developer-portal.md
+  # - 'Tanzu Developer Portal': developer-portal.md
   - 'Application Accelerators': accelerators.md
   - 'Getting Help': help.md
 plugins:
