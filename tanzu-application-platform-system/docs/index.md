@@ -16,4 +16,26 @@ Automate app deployment with a built-in secure software supply chain you can cus
 
 ## Accelerate your path to production
 
-Establish a clear separation of concern between Dev and Ops for seamless app handoffs from Dev to production.
+Establish a clear separation of concerns between developers and operators for seamless app handoffs from source code to running apps in production.
+
+## What To Expect From Tanzu Application Platform
+
+Tanzu Application Platform has many features and capabilities. Here are some of the outcomes you can expect...
+
+* **Enhanced developer productivity and user experience.** </br>
+Unlock greater developer productivity with a Kubernetes abstraction layer enabling faster, more secure applications from the design stage all the way through to development and delivery.
+
+* **Jumpstart your application development.** </br>
+Use pre-configured cloud native pattern templates to bootstrap new applications.
+
+* **Boost your developer velocity.** </br>
+Get a consistent GUI to bring services and APIs together in one management portal.
+
+* **Accelerate your path to production.** </br>
+Secure software supply chains automate out-of-the-box app deployment.
+
+* **Runs on Kubernetes, either in the cloud or on-premise.** </br>
+Tanzu Application Platform supports a multi-cloud environment and runs on any API-conformant Kubernetes distribution.
+
+* **A Flexible, composable platform that you control.** </br>
+Supply Chain Choreographer brings pre-approved paths to production with security and compliance baked in. The supply chains are modular so teams can easily change the supply chain to meet their business needs or integrate their favorite tools.

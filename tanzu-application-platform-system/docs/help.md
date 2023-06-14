@@ -1,5 +1,7 @@
 # Getting Help With Tanzu Application Platform
 
+There are lots of places where you can get help using the Tanzu Application Platform.
+
 ## The Tanzu Application Platform Documentation.
 
 The documentation for all versions of Tanzu Application Platform can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html).

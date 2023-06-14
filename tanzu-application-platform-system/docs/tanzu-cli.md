@@ -2,9 +2,11 @@
 
 The tanzu command line interface (CLI) is your local tool for interacting with the suite of VMware Tanzu products. This tool allows you to deploy and manage the life cycles of not only Kubernetes clusters, but also application workloads, continuous integration and continuous deployment (CI/CD) pipelines, various packages, as well as other development workflows that leverage Tanzu technologies running on those Kubernetes clusters.
 
-[Tanzu CLI Command Reference](https://docs.vmware.com/en/VMware-Tanzu/services/vmware-tanzu-cli-ref/GUID-index.html)
+## Download the Tanzu CLI
 
-### Basic CLI Commands
+You can download the Tanzu CLI binary from [TanzuNet](https://network.tanzu.vmware.com/products/tanzu-application-platform/).
+
+## Basic CLI Commands To Get You Started
 
 Here are some basic commands you may find useful when working with workloads that are running on the platform.
 
@@ -31,4 +33,9 @@ Deleting a workload (removes it from the system):
 ```bash
 tanzu apps workload delete <workload-name>
 ```
+
+## Gain Superior Knowledge From the Documentation 
+
+The [Tanzu CLI Command Reference](https://docs.vmware.com/en/VMware-Tanzu/services/vmware-tanzu-cli-ref/GUID-index.html)
+
 

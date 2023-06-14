@@ -3,15 +3,17 @@ site_description: Tanzu Application Platform
 site_author: user:ben.wilcock
 nav:
   - 'Introduction': index.md
-  - 'Overview': overview.md
   - 'Use Cases': usecases.md
-  - 'Getting Help': help.md
-  # - 'Getting Started (Platform Operators)': get-started-ops.md
-  - 'Getting Started (Application Developers)': get-started-devs.md
+  # - 'Getting Started (Ops)': get-started-ops.md
+  - 'Getting Started (Dev)': get-started-devs.md
   # - 'How It Works': how-it-works.md
   # - 'System Architecture': architecture.md
-  - 'The Tanzu CLI': tanzu-cli.md
-  # - 'Application Accelerators': accelerators.md
+  - 'Tanzu CLI': tanzu-cli.md
+  - 'Tanzu IDE Plugins': ide-plugins.md
+  - 'Tanzu Learning Centers': learning-centers.md
+  - 'Tanzu Developer Portal': developer-portal.md
+  - 'Application Accelerators': accelerators.md
+  - 'Getting Help': help.md
 plugins:
   - techdocs-core
 metadata:
