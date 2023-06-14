@@ -6,7 +6,7 @@ The Learning Center provides a platform for creating and self-hosting hands on l
 
 If the Tanzu Learning Center is installed on your platform, you can take workshops at any time. It's not uncommon for the first workshop that you take to be "Getting Started With Tanzu Application Platform" where you'll learn all about the tanzu-cli, the application accelerators, and more.
 
-![Learning Center In Action](./images/learning-center-anim.gif)
+![Learning Center In Action](./images/learning-center-anim.GIF)
 
 The Learning Center training portal is not integrated into the Tanzu Application Platform Developer Portal, but it is often deployed alongside it. Ask your platform operator for details. In the author's platform, the learning center URL can be found using the following `kubectl` command:
 
