@@ -10,6 +10,7 @@ nav:
   # - 'System Architecture': architecture.md
   - 'Tanzu CLI': tanzu-cli.md
   - 'Tanzu IDE Plugins': ide-plugins.md
+  - 'Tanzu Developer Portal': tanzu-developer-portal.md
   - 'Tanzu Learning Centers': learning-centers.md
   # - 'Tanzu Developer Portal': developer-portal.md
   - 'Application Accelerators': accelerators.md
