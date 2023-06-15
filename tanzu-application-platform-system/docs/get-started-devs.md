@@ -1,4 +1,4 @@
-# Getting Started With Tanzu Application Platform - Application Developers
+# Getting Started With Tanzu Application Platform (Dev)
 
 Here are some tips to get you started building and deploying applications on the Tanzu Application Platform.
 
@@ -14,7 +14,7 @@ The Tanzu IDE Plugins can assist you from right inside your favorite IDE. These 
 
 See [Tanzu IDE Plugins](ide-plugins.md).
 
-## Do Some Hands On Learning With The Learning Center
+## Get Tanzu Smart With The Learning Center
 
 Before deploying your first application, you might like to take a hands on lab called a Leaning Center. These learning centers provide a ready made coding environment where you can safely experiment with the commands and actions required to get the most from the platform.
 
