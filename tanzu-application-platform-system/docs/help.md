@@ -43,11 +43,6 @@ tanzu version
 Check out the [Tanzu CLI Command Reference](https://docs.vmware.com/en/VMware-Tanzu/services/vmware-tanzu-cli-ref/GUID-index.html) guide for more details.
 
 
-
-## Raising Issues For The Platform
-
-TBC
-
 ## Contacting VMware Support
 
-TBC
+You can get support [here](https://tanzu.vmware.com/support).

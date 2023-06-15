@@ -1,4 +1,4 @@
-# Getting Started With Tanzu Application Platform (Dev)
+# Getting Started With Tanzu Application Platform
 
 Here are some tips to get you started building and deploying applications on the Tanzu Application Platform.
 
@@ -13,6 +13,10 @@ See [The Tanzu CLI](tanzu-cli.md)
 The Tanzu IDE Plugins can assist you from right inside your favorite IDE. These plugins can help you begin new projects, deploy and debug code, and provide a permanent link to the status of your apps running on the platform.
 
 See [Tanzu IDE Plugins](ide-plugins.md).
+
+## Get Context Through The Tanzu Developer Portal
+
+The [Tanzu Developer Portal](tanzu-developer-portal.md) provides all your teams with a rich set of features to create, document, observe, and manage enterprise applications running on Tanzu Application Platform. The Tanzu Developer Portal offers deep contextual awareness of what is running on your platform, the APIs available, and who owns each piece.
 
 ## Get Tanzu Smart With The Learning Center
 

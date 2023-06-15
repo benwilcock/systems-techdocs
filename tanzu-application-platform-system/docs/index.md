@@ -1,6 +1,4 @@
-# Tanzu Application Platform - The Faster, More Secure Path To Production!
-
-![Fits the needs of developers, operators, and security teams.](images/path-to-prod.png)
+![Fits the needs of developers, operators, and security teams.](images/tap-hero.png)
 
 Tanzu Application Platform (TAP) is a modular, application-aware platform that runs on any compliant public cloud or on-premises Kubernetes cluster. It delivers a superior multi-cloud developer experience with a prepaved path to production including all the needed components preconfigured for developer teams to build and deploy software quickly and securely. It’s a composable platform that teams can customize based on their organization’s preferences and changing business needs.
 
@@ -46,4 +44,4 @@ Supply Chain Choreographer brings pre-approved paths to production with security
 
 In this short video you'll experience the power of the Tanzu Application Platform's secure supply chain feature. In this video we cover Spring Boot (Java), but there are many more language options available including Python, .Net, Node.js, and more.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LjUbSiIWUNw/0.jpg)](https://youtu.be/LjUbSiIWUNw)
+[![Watch Tanzu Application Platform Deploy Spring Boot (Java) Code Securely In Minutes](https://img.youtube.com/vi/LjUbSiIWUNw/0.jpg)](https://youtu.be/LjUbSiIWUNw)
