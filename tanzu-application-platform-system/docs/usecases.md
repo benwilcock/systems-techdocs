@@ -1,5 +1,3 @@
-# Use Cases
-
 There are lots of scenarios in which you'll find Tanzu Application Platform to be useful in your daily work. The diagram below illustrates just a few of them.
 
 ![Tanzu Application Platform Lifecycle Usecases](./images/tap-lifecycle.png)

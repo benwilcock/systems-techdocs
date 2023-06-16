@@ -15,7 +15,11 @@ nav:
   - 'Application Accelerators': accelerators.md
   - 'Developer APIs': developer-apis.md
   - 'Getting Help': help.md
-
+  - 'Tanzu Labs - Modernization Recipes':
+    - 'REST API Design': recipes/rest-api-design.md
+    - 'REST API Versioning' : recipes/rest-api-versioning.md
+    - 'Get Started With Git': recipes/get-started-with-git.md
+    - 'Writing Great Recipes': recipes/writing-great-recipes.md
 plugins:
   - techdocs-core
 metadata:

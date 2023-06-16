@@ -1,5 +1,3 @@
-# Getting Started With Tanzu Application Platform
-
 Here are some tips to get you started building and deploying applications on the Tanzu Application Platform.
 
 ## Get The Tanzu CLI

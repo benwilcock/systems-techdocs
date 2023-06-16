@@ -1,5 +1,3 @@
-# Getting Help With Tanzu Application Platform
-
 There are lots of places where you can get help using the Tanzu Application Platform.
 
 ## The Tanzu Application Platform Documentation.

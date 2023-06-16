@@ -4,17 +4,25 @@ Tanzu Application Platform (TAP) is a modular, application-aware platform that r
 
 ## Why Choose Tanzu Application Platform?
 
-There are many reasons why Tanzu Application Platform is the right choice for your team. Here are three of the biggest:
+There are many reasons why Tanzu Application Platform is the right choice for your teams.
 
-#### 1. Make your developers happy
+### 1. Keep developers happy
 
-Enable developers to quickly get started with pre-configured templates for cloud native patterns.
+Happiness and productivity go hand-in-hand. Tanzu Application Platform is designed support developers by taking away the toil of dealing with infrastructure. Running applications on Kubernetes becomes much simpler and less error prone. 
 
-#### 2. Bring your own opinions
+Tanzu Application Platform makes coding easier and more fun with several developer-focussed features. 
 
-Automate app deployment with a built-in secure software supply chain you can customize to fit your needs.
+* [Application Accelerators](accelerators.md) allow rapid bootstrapping of new coding projects and provide a marketplace where developers can share their expertise as patterns. 
 
-#### 3. Accelerate your path to production
+* [Tanzu IDE plugins](ide-plugins.md) support live debugging and code editing and provide a window on the status of your applications that are already running on the platform.
+
+* [Tanzu Developer Portal](tanzu-developer-portal.md) makes API discovery simpler and offers LiveView for second by second insights on your running applications.
+
+### 2. Bring your own opinions
+
+Tanzu Application Platform allows you to automate application deployment using a built-in suite of tools. These tools form a secure software supply chain that includes a build system that compiles and tests your application, security measures such as vulnerability scanning and software bill of materials (SBOM), and container image creation and storage in common registries. Best of all, you can customize these supply chains to fit your particular needs by extending the task chain or integrating your preferred tools. 
+
+### 3. Accelerate your path to production
 
 Establish a clear separation of concerns between developers and operators so that everyone benefits. With Tanzu Application platform you'll notice a much more seamless handoffs from source code on a laptop to apps running live in production - without compromising on security.
 
