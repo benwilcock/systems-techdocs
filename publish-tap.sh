@@ -8,5 +8,4 @@
 docker build . -t techdocs
 
 # Run the docer image to generate the site and upload it
-# docker run --rm --env-file .env -v ./:/tmp/catalog/ techdocs /tmp/catalog/mkdocs.yaml awsS3 tap-techdocs
-docker run --rm --env-file .env -v ./:/tmp/catalog/ techdocs /tmp/catalog/catalog-info.yaml awsS3 tap-techdocs
+docker run --rm --env-file tap.env -v ./:/tmp/catalog/ techdocs /tmp/catalog/tap-catalog-info.yaml awsS3 tap-techdocs

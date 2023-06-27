@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: tanzu-developer-portal-techdocs
+spec:
+  type: dir
+  targets:
+    - "tanzu-developer-portal-system/mkdocs.yaml"
+
