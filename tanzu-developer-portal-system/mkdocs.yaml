@@ -3,8 +3,8 @@ site_description: Tanzu Developer Portal
 site_author: user:ben.wilcock
 nav:
   - 'Welcome': index.md
-  - "What's in the box?": whats-in-the-box.md
   - 'Why Choose Tanzu Developer Portal?': why-choose-tdp.md
+  - "What's in the box?": whats-in-the-box.md
   - 'Feature Highlights': features.md
   # - 'Getting Started': get-started-devs.md
   # - 'How It Works': how-it-works.md
