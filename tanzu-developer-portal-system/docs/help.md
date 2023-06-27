@@ -1,46 +1,33 @@
-There are lots of places where you can get help using the Tanzu Application Platform.
+There are lots of places where you can get help with your use of the VMware® Tanzu Developer Portal™.
 
-## The Tanzu Application Platform Documentation.
+## VMware® Tanzu Developer Portal™ Documentation.
 
-The documentation for all versions of Tanzu Application Platform can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html).
+The documentation for all versions of VMware® Tanzu Developer Portal™ can be found [here]().
 
-## Getting Help With The Tanzu CLI
+## Backstage Documentation
 
-You can get help with the Tanzu CLI from the tool itself. Most (if not all) of the commands have help available for them. To get help, use the command `help`. Below are some examples.
+Much of what you see in VMware® Tanzu Developer Portal™ originates from Backstage. In many cases, the backstage documentation will have the help you're looking for. Here are some places to visit:
 
-Get help with the tool itself:
+* [Backstage Documentation](https://backstage.io/docs) - includes overviews, getting started guides, and technical reference documentation for Backstage.
 
-```bash
-tanzu help
-```
+* [Learn Backstage](https://backstage.spotify.com/learn/) - tutorials for learning Backstage and using its core features such as [software catalogs](catalogs.md) and [techdocs](techdocs.md).
 
-Get help with the **apps** plugin:
+* [MKDocs (TechDocs)](https://www.mkdocs.org/) - form the basis of Backstage's TechDocs feature. here you'll find guides on how to create sites using the MKDocs format as used by Backstage's TechDocs feature.
 
-```bash
-tanzu apps help
-```
+## Backstage Community Support
 
-Get help manipulating **workloads** with the apps plugin:
+Backstage has a rich and vibrant user community where you can find support in all kinds of ways including forums, social media, newsletters, community sessions, and of course, source code!
 
-```bash
-tanzu apps workload help
-```
+* Visit the [Backstage Community](https://backstage.io/community/) - for listings of how to participate in the Backstage community.
 
-List all plugins (including both installed and not installed):
+* Visit the [CNCF Backstage Community](https://www.cncf.io/projects/backstage/) - for links to useful information like news, statistics, case studies, events, and meetups.
 
-```bash
-tanzu plugin list
-```
+## VMware® Community Support
 
-Get the version of your `tanzu` cli tool:
+And don't forget, as a VMware customer, you're also entitled to participate in exclusive events where you can meet the experts and network with other VMware customers.
 
-```bash
-tanzu version
-```
+* [VMware User Group (VMUG)](https://www.vmug.com/)
 
-Check out the [Tanzu CLI Command Reference](https://docs.vmware.com/en/VMware-Tanzu/services/vmware-tanzu-cli-ref/GUID-index.html) guide for more details.
+## Contacting VMware® Technical Support
 
-
-## Contacting VMware Support
-
-You can get support [here](https://tanzu.vmware.com/support).
+VMware® customers can also get priority support with technical issues directly from VMware® [here](https://tanzu.vmware.com/support).

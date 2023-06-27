@@ -5,6 +5,7 @@ metadata:
 spec:
   type: dir
   targets:
+    - "tanzu-developer-portal-system/mkdocs.yaml"
     - "tanzu-application-platform-system/mkdocs.yaml"
     - "where-for-dinner-system/mkdocs.yaml"
     - "where-for-dinner-ui/mkdocs.yaml"

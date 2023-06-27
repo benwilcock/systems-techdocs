@@ -10,12 +10,7 @@ The Application Accelerator user interface(UI) enables you to discover available
 
 ## Accelerators In The Browser
 
-The Tanzu Application Platform Developer Portal allows access to all you accelerators in one place. Find it in the "Create" menu in the left hand navigation list.
+The Tanzu Developer Portal allows access to all you accelerators in one place. Find it in the "Create" menu in the left hand navigation list.
 
 ![Accelerator Browser](./images/accelerator-browser-anim.GIF)
 
-## Accelerators In Your IDE
-
-With the Tanzu Application Accelerators [IDE plugin](ide-plugins.md), you don't need to leave your integrated development environment in order to start a new project. Simply choose your accelerator from the accelerator plugin and begin coding. 
-
-![Accelerator Plugin In VS Code](./images/accelerator-ide-anim.GIF)

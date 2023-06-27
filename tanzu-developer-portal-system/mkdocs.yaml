@@ -1,10 +1,11 @@
-site_name: tanzu-application-platform
+site_name: tanzu-developer-portal
 site_description: Tanzu Developer Portal
 site_author: user:ben.wilcock
 nav:
   - 'Welcome': index.md
-  # - 'Use Cases': usecases.md
-  # - 'Getting Started (Ops)': get-started-ops.md
+  - "What's in the box?": whats-in-the-box.md
+  - 'Why Choose Tanzu Developer Portal?': why-choose-tdp.md
+  - 'Feature Highlights': features.md
   # - 'Getting Started': get-started-devs.md
   # - 'How It Works': how-it-works.md
   # - 'System Architecture': architecture.md
@@ -14,7 +15,7 @@ nav:
   # - 'Tanzu Learning Centers': learning-centers.md
   # - 'Application Accelerators': accelerators.md
   # - 'Developer APIs': developer-apis.md
-  # - 'Getting Help': help.md
+  - 'Getting Help': help.md
   # - 'Tanzu Labs - Modernization Recipes':
   #   - 'REST API Design': recipes/rest-api-design.md
   #   - 'REST API Versioning' : recipes/rest-api-versioning.md
