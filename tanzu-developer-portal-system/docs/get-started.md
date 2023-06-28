@@ -25,20 +25,28 @@ The Tanzu Developer Portal includes a system wide search facility that can help 
 
 The Tanzu Developer Portal's software catalog (labelled 'Home' in the navigation) offers deep contextual awareness of what components are available, the APIs and documentation for them, and the critical details of who owns each piece.
 
+![Sample software catalog looking at systems](images/sample-catalog.png)<br/>
+*The software catalog can list systems, components, users, and more.*
+
 You can filter the catalog by category (Components, APIs, Systems, Users, etc.) or by owner, lifecycle, tags, etc.
 
-![Catalog filter by category](images/catalog.png)<br/>
+![Catalog filter by category](images/catalog-categories.png)<br/>
 *The category filter can help you focus.*
 
 ## Docs: Browse Your Technical Documentation
 
 Applications (components, systems, etc.) can have register their technical documentation hosted by the portal so that it's easy to find and share amongst all your teams. These documents are searchable, written in markdown, and can live alongside your code (if that's your preferred location).
 
+![Example of a TechDoc site written for a Spring Boot component](images/sample-techdoc.png)<br/>
+*TechDocs help you share rich documentation with others in your organisation.*
+
 ## APIs: Locate Your APIs
 
 APIs available to developers can be listed, shared, and documented using common standards such as OpenAPI (some may know this as Swagger). APIs registered here in this way have a high degree of utility. You can 
 
-![Example of a TechDoc site written for a Spring Boot component](images/sample-techdoc.png)
+![Sample API document looking at a GET method in REST.](images/sample-api.png)<br/>
+*With the API document view, you can "try out" an API before you write code to consume it.*
+
 
 ## Create: Start A New Project
 
