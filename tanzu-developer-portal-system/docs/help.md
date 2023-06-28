@@ -30,4 +30,4 @@ And don't forget, as a VMware customer, you're also entitled to participate in e
 
 ## Contacting VMware® Technical Support
 
-VMware® customers can also get priority support with technical issues directly from VMware® [here](https://tanzu.vmware.com/support).
+VMware® customers can also get [priority support](https://tanzu.vmware.com/support) with technical issues directly from VMware®.
