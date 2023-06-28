@@ -6,7 +6,7 @@ nav:
   - 'Why Choose Tanzu Developer Portal?': why-choose-tdp.md
   - "What's in the box?": whats-in-the-box.md
   - 'Feature Highlights': features.md
-  # - 'Getting Started': get-started-devs.md
+  - 'Getting Started': get-started.md
   # - 'How It Works': how-it-works.md
   # - 'System Architecture': architecture.md
   # - 'Tanzu CLI': tanzu-cli.md
