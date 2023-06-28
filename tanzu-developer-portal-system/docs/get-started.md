@@ -44,10 +44,10 @@ Applications (components, systems, etc.) can have register their technical docum
 
 ## APIs: Locate Your APIs
 
-APIs available to developers can be listed, shared, and documented using common standards such as OpenAPI (some may know this as Swagger). APIs registered here in this way have a high degree of utility. You can 
+APIs available to developers can be listed, shared, and documented using common standards such as OpenAPI (some may know this as Swagger). APIs registered here in this way have a high degree of utility. With the API document view, you can "try out" an API before you write code to consume it. 
 
 ![Sample API document looking at a GET method in REST.](images/sample-api.png)<br/>
-*With the API document view, you can "try out" an API before you write code to consume it.*
+*Trying out an API in the API docs viewer.*
 
 
 ## Create: Start A New Project
