@@ -18,7 +18,7 @@ With Tanzu Developer Portal you'll notice much faster startup times for your new
 
 Tanzu Developer Portal is to new for detailed data on outcomes, but when Spotify measured [Backstage’s impact](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/) on developers, they discovered that developers who use Backstage regularly are:
 
-| <img src="images/github.png" alt="GitHub" width="60"/> |  <img src="images/clock.png" alt="Clock" width="60"/>  |          <img src="images/cogcycle.png" alt="Components" width="60"/>          | <img src="images/team.png" alt="Team" width="60"/> |
+| <img src="images/activity.png" alt="Activity" width="60"/> |  <img src="images/clock.png" alt="Clock" width="60"/>  |          <img src="images/cogcycle.png" alt="Components" width="60"/>          | <img src="images/team.png" alt="Team" width="60"/> |
 |:----------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |                 **2.3x more active in GitHub**                 | **Committing 2x more code changes in 17% less cycle time** | **Deploying software 2x as often (and their software is deployed for 3x as long)** |           **5% more likely to stick around**           |
 
