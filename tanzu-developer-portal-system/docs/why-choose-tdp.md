@@ -6,7 +6,7 @@ Productive developers are happy developers. they also stay with you longer. Tanz
 
 ## **Reason \#2: Bring Your Favorite Backstage Plugins**
 
-Tanzu Developer Portal allows you to use plugins from the Backstage community to customize you developer experience. There are many on offer. Take a look in the [Backstage Plugins GitHub](https://github.com/backstage/backstage/tree/master/plugins) directory for some plugin examples including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.<sup>*</sup> 
+Tanzu Developer Portal allows you to use plugins from the Backstage community to customize you developer experience. There are many on offer. Take a look in the [Backstage Plugins GitHub](https://github.com/backstage/backstage/tree/master/plugins) directory for some plugin ideas including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.<sup>*</sup> 
 
 ## **Reason \#3: Accelerate Your Golden Path To Production**
 
@@ -20,5 +20,5 @@ Tanzu Developer Portal is to new for detailed data on outcomes, but when Spotify
 |:----------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |                 **2.3x more active in GitHub**                 | **Committing 2x more code changes in 17% less cycle time** | **Deploying software 2x as often (and their software is deployed for 3x as long)** |           **5% more likely to stick around**           |
 
-> \* As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. Our configurator tool operates with “surfaces” that informs it how to integrate the plugin’s code into the portal. As of the initial release, we are enabling the most commonly used surfaces. For more information, please refer to [TAP Docs link - API surfaces].
+> \* As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the documentation for details.
 

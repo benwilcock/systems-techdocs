@@ -1,3 +1,5 @@
+# FAQs
+
 Here are some common questions people have about Welcome To VMware® Tanzu Developer Portal™.
 
 ## Q: I am a current VMware Tanzu Application Platform customer. Do I need to acquire the Tanzu Developer Portal separately to enjoy its features?

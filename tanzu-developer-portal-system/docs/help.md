@@ -1,3 +1,5 @@
+# Getting Help With VMware® Tanzu Developer Portal™
+
 There are lots of places where you can get help with the VMware® Tanzu Developer Portal™.
 
 ## VMware® Tanzu Developer Portal™ Documentation.
