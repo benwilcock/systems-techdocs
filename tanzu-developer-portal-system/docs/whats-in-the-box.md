@@ -1,6 +1,6 @@
 # What's Included With VMware® Tanzu Developer Portal™
 
-With VMware® Tanzu Developer Portal™, building and running applications is easier and more fun thanks to several developer-focussed features. 
+With VMware® Tanzu Developer Portal™, building and running enterprise applications is easier and more fun thanks to several developer-focussed features. 
 
 * [**Software Catalogs**](../get-started/#home-discover-your-software-catalog) document your enterprise software clarifying the components in play and the linkages between them and the teams that own them.
 

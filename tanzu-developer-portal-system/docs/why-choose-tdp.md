@@ -1,3 +1,5 @@
+# Why Choose VMware® Tanzu Developer Portal™?
+
 There are many reasons why VMware® Tanzu Developer Portal™ is the ideal choice for your software development team. Here are just three to keep in mind:
 
 ## **Reason \#1: Make Your Developers Happy!**
@@ -14,7 +16,7 @@ With Tanzu Developer Portal you'll notice much faster startup times for your new
 
 # What To Expect From Tanzu Developer Portal
 
-Tanzu Developer Portal is to new for detailed data on outcomes, but when Spotify measured [Backstage’s impact](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/) on developers, they discovered that developers who use Backstage regularly are:
+Tanzu Developer Portal is too new for detailed statistical data on outcomes, but when Spotify measured [Backstage’s impact](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/) on developers, they discovered that developers who use Backstage regularly are:
 
 | <img src="images/activity.png" alt="Activity" width="60"/> |  <img src="images/clock.png" alt="Clock" width="60"/>  |          <img src="images/cogcycle.png" alt="Components" width="60"/>          | <img src="images/team.png" alt="Team" width="60"/> |
 |:----------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------:|
