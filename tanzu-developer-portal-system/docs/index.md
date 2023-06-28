@@ -1,4 +1,4 @@
-# Welcome To VMware® Tanzu Developer Portal™!
+# Welcome To VMware® Tanzu Developer Portal™
 
 \[ Hero TDP Banner Image \]
 

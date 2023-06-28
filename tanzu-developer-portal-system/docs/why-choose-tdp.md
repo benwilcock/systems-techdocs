@@ -1,5 +1,3 @@
-# Why Choose Tanzu Developer Portal?
-
 There are many reasons why Tanzu Developer Portal is the ideal choice for your software development team. Here are just three to keep in mind:
 
 ## **Reason \#1: Make Your Developers Happy!**
