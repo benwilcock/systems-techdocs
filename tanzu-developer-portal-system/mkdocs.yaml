@@ -2,25 +2,18 @@ site_name: tanzu-developer-portal
 site_description: Tanzu Developer Portal
 site_author: user:ben.wilcock
 nav:
-  - 'Welcome': index.md
+  - 'Welcome To Tanzu Developer Portal': index.md
   - 'Why Choose Tanzu Developer Portal?': why-choose-tdp.md
-  - "What's in the box?": whats-in-the-box.md
-  - 'Feature Highlights': features.md
-  - 'Getting Started': get-started.md
-  # - 'How It Works': how-it-works.md
-  # - 'System Architecture': architecture.md
-  # - 'Tanzu CLI': tanzu-cli.md
-  # - 'Tanzu IDE Plugins': ide-plugins.md
-  # - 'Tanzu Developer Portal': tanzu-developer-portal.md
-  # - 'Tanzu Learning Centers': learning-centers.md
-  # - 'Application Accelerators': accelerators.md
-  # - 'Developer APIs': developer-apis.md
-  - 'Getting Help': help.md
+  - "What's Included With Tanzu Developer Portal?": whats-in-the-box.md
+  - 'Feature Highlights Of Tanzu Developer Portal': features.md
+  - 'Getting Started With Tanzu Developer Portal': get-started.md
+  - 'Getting Help With Tanzu Developer Portal': help.md
+  - 'FAQs': faqs.md
   # - 'Tanzu Labs - Modernization Recipes':
   #   - 'REST API Design': recipes/rest-api-design.md
   #   - 'REST API Versioning' : recipes/rest-api-versioning.md
   #   - 'Get Started With Git': recipes/get-started-with-git.md
-  - 'Frequently Asked Questions': faqs.md
+
 plugins:
   - techdocs-core
 metadata:
