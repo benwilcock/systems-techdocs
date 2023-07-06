@@ -22,5 +22,6 @@ Tanzu Developer Portal is too new for detailed statistical data on outcomes, but
 |:----------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |                 **2.3x more active in GitHub**                 | **Committing 2x more code changes in 17% less cycle time** | **Deploying software 2x as often (and their software is deployed for 3x as long)** |           **5% more likely to stick around**           |
 
-> \* As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the documentation for details.
+!!! info
+    \* As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the documentation for details.
 
