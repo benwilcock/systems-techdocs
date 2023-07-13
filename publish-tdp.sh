@@ -8,4 +8,4 @@
 docker build . -t techdocs
 
 # Run the docer image to generate the site and upload it
-docker run --rm --env-file tdp.env -v ./:/tmp/catalog/ techdocs /tmp/catalog/tdp-catalog-info.yaml awsS3 tapgui-techdocs
+docker run --rm --env-file tdp.env -v ./:/tmp/catalog/ techdocs /tmp/catalog/tdp-catalog-info.yaml awsS3 wilcockb-techdocs
