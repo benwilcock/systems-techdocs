@@ -1,11 +1,22 @@
-# Test Page
+# Making Your TechDocs More Appealing
+
 
 Other MKdocs extensions that work in TAP and TDP. Taken and tested from the reference documentation [here](https://squidfunk.github.io/mkdocs-material/reference/).
 
+## Quotes
+
+!!! quote "This is a quote"
+    You don't have to add a title to an admonition, they're optional.
+
 ## Callouts (Admonitions)
 
-!!! warning "This is a regular callout"
+There are lots of types to choose from. See [here](https://squidfunk.github.io/mkdocs-material/reference/admonitions/).
+
+!!! info "This is a regular callout"
     There are lots of types to choose from. See [here](https://squidfunk.github.io/mkdocs-material/reference/admonitions/).
+
+!!! warn "This is a warning"
+    This callout contains a warning.
 
 ???+ info "Expanded"
     This is expanded by default.
@@ -41,13 +52,47 @@ Particularly useful for code blocks for different programming languages or platf
 
 ## UML (PlantUML)
 
-```plantuml format="svg" classes="uml myDiagram" alt="Backstage sample PlantUML" title="Backstage sample PlantUML" width="500px" height="250px"
+You can create dynamic UML diagrams on the fly by just specifying flow via text, using [PlantUML](https://pypi.org/project/plantuml-markdown/).
+
+
+### Sequence Diagrams
+
+```plantuml format="svg" classes="uml mySequenceDiagram" alt="Backstage sample PlantUML Sequence" title="Backstage sample PlantUML Sequence" width="500px" height="250px"
 User -> SCMProvider: stores
 TechDocs -> SCMProvider: prepares
 TechDocs -> TechDocs: generates
 TechDocs -> CloudStorage: publishes
 CloudStorage -> Backstage: displays
 ```
+
+### Class Diagrams
+
+```plantuml format="svg" classes="uml myClassDiagram" alt="Backstage sample PlantUML Class" title="Backstage sample PlantUML Class" width="400px" height="400px"
+Object <|-- ArrayList
+
+Object : equals()
+ArrayList : Object[] elementData
+ArrayList : size()
+```
+
+### Component Diagrams
+
+```plantuml format="svg" classes="uml myComponentDiagram" alt="Backstage sample PlantUML Component" title="Backstage sample PlantUML Component" width="400px" height="400px"
+component C {
+  portout p1
+  portout p2
+  portout p3
+  component c1
+}
+[o]
+p1 --> o
+p2 --> o
+p3 --> o
+c1 --> p1
+```
+
+!!! note "More diagrams and examples"
+    You can find much more information about PlantUML and samples to try on their [website](https://plantuml.com/). Use the links at th top of the page for samples.
 
 ## Footnotes
 
@@ -58,7 +103,7 @@ Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit.[^2]
 [^2]:
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
 
-## Formatting
+## Text Formatting
 
 Text can be {--deleted--} and replacement text {++added++}. This can also be combined into {~~one~>a single~~} operation. {==Highlighting==} is also
 possible {>>and comments can be added inline<<}.
@@ -74,8 +119,16 @@ tags on separate lines and adding new lines between the tags and the content.
 - ^^This was inserted^^
 - ~~This was deleted~~
 
-- H~2~O
-- A^T^A
+- Subtext H~2~O
+- Supertext A^T^A
+
+## Task Lists
+
+Automatic rendering of Markdown task lists.
+
+- [x] Phase 1
+- [x] Phase 2
+- [ ] Phase 3
 
 ## Emoji
 
@@ -127,6 +180,23 @@ You can add captions.
 - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
 
 
+## MDX truly sane lists
+
+- `attributes`
+
+- `customer`
+  - `first_name`
+    - `test`
+  - `family_name`
+  - `email`
+- `person`
+  - `first_name`
+  - `family_name`
+  - `birth_date`
+- `subscription_id`
+
+- `request`
+
 ## Tool tips
 
 Links can have tool tips.
@@ -138,6 +208,11 @@ Link with tooltip (reference syntax)
 [Hover me][example]
 
 [example]: https://example.com "I'm a tooltip!"
+
+
+## Download Links
+
+[A Download Link](./images/backstage-logo-cncf.svg){: download }
 
 
 ## Abbreviations
