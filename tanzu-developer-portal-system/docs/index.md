@@ -2,8 +2,8 @@
 
 Your developers will love :heart: VMware® Tanzu Developer Portal™. VMware® Tanzu Developer Portal™ makes creating, discovering, and managing enterprise software faster and more productive for everyone! With VMware® Tanzu Developer Portal™, applications and APIs deployed across your business become easier to find, easier to understand, and easier to control. 
 
-!!! tip "Based On [Backstage](https://backstage.io)"
-    VMware® Tanzu Developer Portal™ is based on open-source ~[![backstage](images/Backstage-Full.png){ width="120" }](https://backstage.io)~.  Backstage's fast growing ecosystem of [plugins](https://backstage.io/plugins/) satisfies a broad range of developer requirements. Top vendors including VMware® are contributing code to Backstage to make sure the developer experience is as rich and productive as possible.
+!!! tip "Proudly Based On [Backstage](https://backstage.io)"
+    VMware® Tanzu Developer Portal™ is based on the open-source project ~[![backstage](images/Backstage-Full.png "Backstage"){ width="120" }](https://backstage.io)~ which began life as an internal developer portal at Spotify.  Backstage enjoys a fast growing ecosystem of extensions called "[plugins](https://backstage.io/plugins/ "plugins")" that satisfy a broad range of developer requirements. Many leading platform vendors (including  VMware®) are contributing new [source code](https://github.com/backstage "source code") to the Backstage project to ensure the developer experience is as rich and rewarding as possible.
 
 Check out our [Getting Started Guide](./get-started.md) to quickly get up to speed with the VMware® Tanzu Developer Portal™ user interface. The [feature highlights](./features.md) of VMware® Tanzu Developer Portal™ include an enhanced developer experience and greater developer productivity. Take a look around to learn more.
 
