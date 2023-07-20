@@ -1,21 +1,21 @@
 # Why Choose VMware® Tanzu Developer Portal™?
 
-There are many reasons why VMware® Tanzu Developer Portal™ is the ideal choice for your software development team. Here are just three to keep in mind:
+There are many reasons why VMware® Tanzu Developer Portal™ is the ideal choice for your software development team. Here are three to keep in mind:
 
-!!! tip "**Reason \#1 – Make Your Developers Happy!**"
-    Productive developers are happy developers. they also stay with you longer. Tanzu Developer Portal is designed help developers create, discover, and manage their applications wherever they may be in your organization's portfolio.
+!!! tip "**Reason \#1 – Make Your Developers Happy** :smiley:"
+    Happy developers are productive developers. They also stay with you longer. VMware® Tanzu Developer Portal™ is designed help developers create, discover, and manage their applications wherever they may be in your organization's portfolio.
 
-!!! tip "**Reason \#2 – Bring Your Favorite Backstage Plugins**"
-    Tanzu Developer Portal allows you to use plugins from the Backstage community to customize you developer experience. There are many on offer. Take a look in the [Backstage Plugins](https://github.com/backstage/backstage/tree/master/plugins) directory for some great plugin tooling ideas including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.[^1] 
+!!! tip "**Reason \#2 – Bring Your Favorite Backstage Plugins** :heart:"
+    VMware® Tanzu Developer Portal™ allows you to use plugins from the Backstage community to customize you developer experience. There are many on offer. Take a look in the [Backstage Plugins](https://github.com/backstage/backstage/tree/master/plugins) directory for some great plugin tooling ideas including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.[^1] 
 
     [^1]: As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the documentation for details.
 
-!!! tip "**Reason \#3 – Accelerate Your Golden Path To Production**"
-    With Tanzu Developer Portal you'll notice much faster startup times for your new development projects thanks to [application accelerators](get-started.md). With deeper information sharing and greater clarity around application ownership, you'll also notice reduced cycles times, faster troubleshooting of production apps, and quicker recovery from issues.
+!!! tip "**Reason \#3 – Accelerate Your Golden Path To Production** :rocket:"
+    With VMware® Tanzu Developer Portal™ you'll notice much faster startup times for your new development projects thanks to [application accelerators](get-started.md). And with deeper information sharing and greater clarity around application ownership, you'll also notice reduced cycles times, faster troubleshooting, and quicker recovery from issues.
 
 # What To Expect From Tanzu Developer Portal
 
-Tanzu Developer Portal is based on Backstage. When Spotify measured [Backstage’s impact](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/) on developers, they discovered that those who use Backstage regularly are:
+VMware® Tanzu Developer Portal™ is based on [Backstage](https://backstage.io "Backstage"). When Spotify measured [Backstage’s impact](https://backstage.spotify.com/blog/how-spotify-measures-backstage-roi/ "Backstage's impact"), they discovered that those who use Backstage regularly are:
 
 | <img src="images/activity.png" alt="Activity" width="60"/> |  <img src="images/clock.png" alt="Clock" width="60"/>  |          <img src="images/cogcycle.png" alt="Components" width="60"/>          | <img src="images/team.png" alt="Team" width="60"/> |
 |:----------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------:|

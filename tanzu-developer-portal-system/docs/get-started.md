@@ -2,43 +2,38 @@
 
 The VMware® Tanzu Developer Portal™ provides your teams with a one place where they can create, document, observe, and manage the enterprise applications they care for. Here are some quick tips to get you started with the VMware® Tanzu Developer Portal™.
 
-## Navigating Around The UI
+!!! info "Navigating Around VMware® Tanzu Developer Portal™"
+    Over on the left there is a vertical side panel of icons where you can navigate around the different features of the VMware® Tanzu Developer Portal™. This panel can be expanded or contracted by clicking on the chevrons at the top. 
 
-Over on the left you'll find a vertical side panel of icons where you can navigate around the different features of the VMware® Tanzu Developer Portal™. This panel can be expanded and contracted by clicking on the chevrons at the top.  
+    **Search** is where you can enter queries and search for items.
 
-<figure markdown>
-  ![Left hand navigation bar](images/navigation.png){ width="250" }
-  <figcaption>The main menu bar.</figcaption>
-</figure>
+    **Home** is where you'll find the software catalog.
 
+    **Docs** contains links to all the technical documentation (TechDocs) registered with the portal.
 
-!!! info "The Navigation Panel's Menu Options"
-    **Search** :mag: is where you can enter queries and search for items.
-
-    **Home** :house: is where you'll find the software catalog.
-
-    **Docs** :page_facing_up: contains links to all the technical documentation (TechDocs) registered with the portal.
-
-    **Create** :heavy_plus_sign: provides multiple application accelerators (code templates) for new projects.
+    **Create** provides multiple application accelerators (code templates) for new projects.
 
     **APIs** details the application programming interfaces registered with the portal.
 
-    **Supply Chains** :link: are how platforms can deliver code securely to production. They include steps to build and test your code for known vulnerabilities, and take care of details such as deployment.[^1]
+    **Supply Chains** are how platforms can deliver code securely to production. They include steps to build and test your code for known vulnerabilities, and take care of details such as deployment.[^1]
 
-    **Security Analysis** :shield: is a dashboard where and vulnerabilities discovered in your software by the supply chain can be assessed, explored, and managed.[^1]
+    **Security Analysis** is a dashboard where and vulnerabilities discovered in your software by the supply chain can be assessed, explored, and managed.[^1]
 
-    **Settings** :gear: lets you customize your portal experience with settings for "Dark Mode" etc.
-
-[^1]: Included as part of VMware® Tanzu Application Platform™ and available in VMware® Tanzu Developer Portal™ for evaluation purposes.
-
-Read on for more information about each menu.
-
-???+ tip "**Search – Find What You Need**"
-    The VMware® Tanzu Developer Portal™ includes a system wide search facility that can help you find information stored within the system. Your technical documentation, APIs, software catalog entries, application accelerators, and more are indexed by the system.
+    **Settings** lets you customize your portal experience with settings for "Dark Mode" etc.
 
     <figure markdown>
-        ![Example of a search](images/sample-search.png)
-        <figcaption>An example of a search for items that relate to the to the search term "sentiments</figcaption>
+    ![Left hand navigation bar](images/navigation.png){ width="250" }
+    <figcaption>The main menu bar.</figcaption>
+    </figure>
+
+Expand each of the sections below for more information about each menu item.
+
+??? tip "**Search – Find What You Need**"
+    The VMware® Tanzu Developer Portal™ includes a system wide search facility that can help you find information stored within the system. Your technical documentation, APIs, software catalog entries, application accelerators, and more are all indexed by the search system.
+
+    <figure markdown>
+        ![Example of a search](images/sample-search2.png)
+        <figcaption>An example of a search for items that relate to the to the search term "Developer Portal</figcaption>
     </figure>
 
 
@@ -61,17 +56,17 @@ Read on for more information about each menu.
 
 ??? tip "**Docs – Browse Your Technical Documentation**"
 
-    Applications (components, systems, etc.) can have register their technical documentation hosted by the portal so that it's easy to find and share amongst all your teams. These documents are searchable, written in markdown, and can live alongside your code (if that's your preferred location).
+    Applications (components, systems, etc.) can host their technical documentation in the portal.  Once shared, information access and retrieval becomes easier for all your development teams. These essential technical documents are easy to write, searchable, and can even live alongside your code in version control (if that's your preferred location). No more searching the wiki, hunting down word documents, or wasting precious time on out of date docs! 
 
     <figure markdown>
-        ![Example of a TechDoc site written for a Spring Boot component](images/sample-techdoc.png)
+        ![Example of a TechDoc site written for a Spring Boot component](images/sample-techdoc2.png)
         <figcaption>TechDocs help you share rich documentation with others in your organisation.</figcaption>
     </figure>
 
 
 ??? tip "**Create – Start A New Project**"
 
-    Application Accelerators (labelled as 'Create' in the navigation) provide ready made and pre-approved coding project templates which you can customize and download. These templates drastically shorten the time taken to begin new projects. They encourage the use of your best practices for application design and help you stay on the golden path.
+    Application Accelerators (labelled as 'Create' in the navigation menu) provide ready made, pre-approved coding templates which developers can browse, customize, and download. These templates drastically shorten the time taken to onboard new developers or begin new coding projects. They also encourage the use of your preferred best practices and help your developers stay on the golden path.
 
     <figure markdown>
         ![Sample accelerator for Node.JS](images/sample-accelerator.png)
@@ -79,14 +74,12 @@ Read on for more information about each menu.
     </figure>
     
 
-    Better yet, you can create your own application accelerators and share them with other portal users. This will help you standardize on common tools, and eliminate the time you normally waste adding common libraries or configuration.
+    Best of all, you can [create your own Application Accelerator](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.5/tap/getting-started-create-app-accelerator.html "create your own Application Accelerator") templates and share them with other developers. This helps you standardize your practices, foster the use of preferred tools, and eliminate the time you normally waste adding the same common libraries and configuration settings to each project.
 
 
 ??? tip "**APIs – Know Your Application Programming Interfaces**"
 
-    APIs available to developers can be listed, shared, and documented using common standards such as OpenAPI[^1]. APIs registered here in this way have a high degree of utility. With the API document view, you can "try out" an API before you write code to consume it. 
-
-    [^1]: Some may know the OpenAPI specification via its previous name - "Swagger documentation."
+    APIs available to developers can be listed, shared, and documented using common standards such as OpenAPI[^2]. APIs registered in this way have a high degree of utility and visibility. With the API document view, you can "try out" an API in the portal without writing any code. 
 
     <figure markdown>
         ![Sample API document looking at a GET method in REST.](images/sample-api.png)
@@ -102,7 +95,12 @@ Read on for more information about each menu.
         ![Settings](images/settings.png)
         <figcaption>Use the settings panel to change your UI theme.</figcaption>
     </figure>
-    
+
+
+
+[^1]: Included as part of VMware® Tanzu Application Platform™ and available in VMware® Tanzu Developer Portal™ for evaluation purposes.
+[^2]: Some may know the OpenAPI specification via its previous name - "Swagger documentation." 
+
 *[UI]: User Interface
 *[API]: Application Programming Interface
 *[APIs]: Application Programming Interfaces
