@@ -7,7 +7,7 @@ Your developers will love :heart: VMware® Tanzu Developer Portal™. VMware® T
     VMware® Tanzu Developer Portal™ is based on the open-source project ~[![backstage](images/Backstage-Full.png "Backstage"){ width="120" }](https://backstage.io)~ which began life as an developer portal for developers at [Spotify engineering](https://engineering.atspotify.com/ "Spotify engineering").  Backstage is often used as a GUI in an Internal Developer Platform (IDP), and enjoys a fast growing ecosystem of extensions called "[plugins](https://backstage.io/plugins/ "plugins")" that satisfy a broad range of developer requirements. Many leading platform vendors (including  VMware®) are contributing [source code](https://github.com/backstage "source code") to the Backstage project to ensure the developer experience is as rich and rewarding as possible.
 
 *[GUI]: Graphical User Interface (sometimes shortened to UI).
-*[IDP]: Internal Developer Platform - a system intended to make developing, securing, operating, and managing applications easier.
+*[IDP]: Internal Developer Platform - a system intended to make iy easier to develop, secure, operate, and manage applications running on your cloud infrastucture.
 
 The [feature highlights](./features.md) of VMware® Tanzu Developer Portal™ include an enhanced developer experience and greater developer productivity. Check out our [Getting Started Guide](./get-started.md) to quickly get up to speed with these features.
 
