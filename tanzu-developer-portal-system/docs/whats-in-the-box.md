@@ -2,13 +2,13 @@
 
 With VMware® Tanzu Developer Portal™, building and running enterprise applications is easier and more fun thanks to several developer-focussed features. 
 
-- [x] [**Software Catalogs**](get-started.md) document your enterprise software clarifying the components in play and the linkages between them and the teams that own them.
+- [x] [**Software Catalogs**](get-started.md) document your enterprise software, clarifying the components in play, the linkages between them, and the teams that own and manage them.
 
-- [x] [**Application Accelerators**](get-started.md) allow rapid bootstrapping of new coding projects and provide a marketplace where developers can share their expertise as patterns. 
+- [x] [**Application Accelerators**](get-started.md) allow rapid bootstrapping of new coding projects and provide a marketplace where developers can share their templates as new accelerators. 
 
 - [x] [**TechDocs**](get-started.md) document how your applications are constructed, what features they offer, and anything else you can think of!
 
-- [x] [**API Docs**](get-started.md) specify (in a standard way) the application programming interfaces on offer to your development teams. 
+- [x] [**API Docs**](get-started.md) specify (in a standard way) the application programming interfaces available to your development teams. 
 
 - [x] **API Auto Registration** can automatically register the APIs of compatible components so they show up instantly in API Docs without user intervention or further configuration.
 
@@ -20,4 +20,7 @@ With VMware® Tanzu Developer Portal™, building and running enterprise applica
 
 - [x] [**Search**](get-started.md) brings your documentation to you highlighting content that matches your query.
 
+
+!!! note "Some restrictions apply."
+    Depending on your Tanzu platform, some features may be added, removed, or unavailable. Check the VMware product documentation for your platform for details.
 

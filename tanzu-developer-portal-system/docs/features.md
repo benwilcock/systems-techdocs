@@ -1,6 +1,6 @@
 # Feature Highlights Of VMware® Tanzu Developer Portal™
 
-VMware® Tanzu Developer Portal™ helps you and your colleagues to deliver code with greater speed, confidence, and clarity. Here are some highlights of what you can expect when using the VMware® Tanzu Developer Portal™...
+VMware® Tanzu Developer Portal™ helps you and your colleagues deliver code with greater speed, confidence, and clarity. Here are some highlights of what you can expect when using the VMware® Tanzu Developer Portal™...
 
 ??? success "**Enhanced developer experience.**"
     Improve you developer experience and unlock greater developer productivity with tools and information designed to help you from the architectural design stage all the way through development and delivery and into production.

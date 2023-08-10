@@ -6,9 +6,9 @@ There are many reasons why VMware® Tanzu Developer Portal™ is the ideal choic
     Happy developers are productive developers. They also stay with you longer. VMware® Tanzu Developer Portal™ is designed help developers create, discover, and manage their applications wherever they may be in your organization's portfolio.
 
 !!! tip "**Reason \#2 – Bring Your Favorite Backstage Plugins** :heart:"
-    VMware® Tanzu Developer Portal™ allows you to use plugins from the Backstage community to customize you developer experience. There are many on offer. Take a look in the [Backstage Plugins](https://github.com/backstage/backstage/tree/master/plugins) directory for some great plugin tooling ideas including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.[^1] 
+    VMware® Tanzu Developer Portal™ allows you to configure and use plugins from the Backstage community to customize your developer experience. There are many plugins to choose from. Take a look in the [Backstage Plugins](https://github.com/backstage/backstage/tree/master/plugins) marketplace for some great plugin ideas including GitHub Actions, Jenkins, Stack Overflow, Pager Duty, New Relic and more.[^1] 
 
-    [^1]: As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the documentation for details.
+    [^1]: As a general principle, we aim to make any Backstage plugin compatible with Tanzu Developer Portal. But, support for every plugin cannot be guaranteed. Check the portal documentation for your platform for details.
 
 !!! tip "**Reason \#3 – Accelerate Your Golden Path To Production** :rocket:"
     With VMware® Tanzu Developer Portal™ you'll notice much faster startup times for your new development projects thanks to [application accelerators](get-started.md). And with deeper information sharing and greater clarity around application ownership, you'll also notice reduced cycles times, faster troubleshooting, and quicker recovery from issues.

@@ -1,6 +1,6 @@
 # Getting Started With VMware® Tanzu Developer Portal™
 
-The VMware® Tanzu Developer Portal™ provides your teams with a one place where they can create, document, observe, and manage the enterprise applications they care for. Here are some quick tips to get you started with the VMware® Tanzu Developer Portal™.
+The VMware® Tanzu Developer Portal™ provides your teams with a single place where they can create, document, observe, and manage the enterprise applications they care for. Here are some quick tips to get you started with the VMware® Tanzu Developer Portal™.
 
 !!! info "Navigating Around VMware® Tanzu Developer Portal™"
     Over on the left there is a vertical side panel of icons where you can navigate around the different features of the VMware® Tanzu Developer Portal™. This panel can be expanded or contracted by clicking on the chevrons at the top. 
@@ -29,11 +29,11 @@ The VMware® Tanzu Developer Portal™ provides your teams with a one place wher
 Expand each of the sections below for more information about each menu item.
 
 ??? tip "**Search – Find What You Need**"
-    The VMware® Tanzu Developer Portal™ includes a system wide search facility that can help you find information stored within the system. Your technical documentation, APIs, software catalog entries, application accelerators, and more are all indexed by the search system.
+    The VMware® Tanzu Developer Portal™ includes a comprehensive search facility that can help you to find information stored in the system. Your technical documentation, APIs, software catalog entries, application accelerators, and more are all indexed by the search system.
 
     <figure markdown>
         ![Example of a search](images/sample-search2.png)
-        <figcaption>An example of a search for items that relate to the to the search term "Developer Portal</figcaption>
+        <figcaption>An example of a search for items that relate to the to the search term "Developer Portal"</figcaption>
     </figure>
 
 
@@ -60,13 +60,13 @@ Expand each of the sections below for more information about each menu item.
 
     <figure markdown>
         ![Example of a TechDoc site written for a Spring Boot component](images/sample-techdoc2.png)
-        <figcaption>TechDocs help you share rich documentation with others in your organisation.</figcaption>
+        <figcaption>TechDocs help you share rich documentation with others in your organization.</figcaption>
     </figure>
 
 
 ??? tip "**Create – Start A New Project**"
 
-    Application Accelerators (labelled as 'Create' in the navigation menu) provide ready made, pre-approved coding templates which developers can browse, customize, and download. These templates drastically shorten the time taken to onboard new developers or begin new coding projects. They also encourage the use of your preferred best practices and help your developers stay on the golden path.
+    Application Accelerators (labelled as 'Create' in the navigation menu) provide ready made, pre-approved coding templates which developers can browse, customize, and download. These templates reduce the time required to onboard new developers or begin new coding projects. They also encourage the use of your best practices and help your developers stay on the [golden path](https://youtu.be/k1RNWF1Nblc).
 
     <figure markdown>
         ![Sample accelerator for Node.JS](images/sample-accelerator.png)
