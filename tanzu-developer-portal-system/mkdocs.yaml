@@ -10,7 +10,7 @@ nav:
   - "What's Included With VMware® Tanzu Developer Portal™": whats-in-the-box.md
   - "Getting Help With VMware® Tanzu Developer Portal™": help.md
   - "FAQs For VMware® Tanzu Developer Portal™": faqs.md
-  # - "MKDocs Extensions": mkdocs-extensions.md
+  # - "MKDocs Extensions": mkdocs-extensions.md  
   # - 'Tanzu Labs - Modernization Recipes':
   #   - 'REST API Design': recipes/rest-api-design.md
   #   - 'REST API Versioning' : recipes/rest-api-versioning.md
