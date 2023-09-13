@@ -2,8 +2,13 @@
 
 The VMware® Tanzu Developer Portal™ provides your teams with a single place where they can create, document, observe, and manage the enterprise applications they care for. Here are some quick tips to get you started with the VMware® Tanzu Developer Portal™.
 
-!!! info "Navigating Around VMware® Tanzu Developer Portal™"
-    Over on the left there is a vertical side panel of icons where you can navigate around the different features of the VMware® Tanzu Developer Portal™. This panel can be expanded or contracted by clicking on the chevrons at the top. 
+??? tip "Navigating VMware® Tanzu Developer Portal™"
+    Over on the far left of your screen there is a vertical side panel of icons. These icons allow you to navigate your way around the different features of the VMware® Tanzu Developer Portal™. This panel can be expanded or contracted by clicking on the chevrons at the top. 
+
+    <figure markdown>
+    ![Left hand navigation bar](images/navigation.png){ width="250" }
+    <figcaption>The main menu bar.</figcaption>
+    </figure>
 
     **Search** is where you can enter queries and search for items.
 
@@ -20,11 +25,6 @@ The VMware® Tanzu Developer Portal™ provides your teams with a single place w
     **Security Analysis** is a dashboard where and vulnerabilities discovered in your software by the supply chain can be assessed, explored, and managed.[^1]
 
     **Settings** lets you customize your portal experience with settings for "Dark Mode" etc.
-
-    <figure markdown>
-    ![Left hand navigation bar](images/navigation.png){ width="250" }
-    <figcaption>The main menu bar.</figcaption>
-    </figure>
 
 Expand each of the sections below for more information about each menu item.
 
