@@ -12,7 +12,7 @@ spec:
       value: "system"
   source:
     git:
-      url: https://github.com/benwilcock/where-for-dinner-techdocs
+      url: https://github.com/benwilcock/systems-techdocs
       ref:
         branch: main
     subPath: tanzu-developer-portal-system

@@ -1,0 +1,18 @@
+apiVersion: carto.run/v1alpha1
+kind: Workload
+metadata:
+  name: tanzu-application-platform
+  labels:
+    apps.tanzu.vmware.com/workload-type: techdocs
+    app.kubernetes.io/part-of: tanzu-application-platform
+  namespace: polyglot-demo
+spec:
+  params:
+    - name: techdocs_type
+      value: "system"
+  source:
+    git:
+      url: https://github.com/benwilcock/systems-techdocs
+      ref:
+        branch: main
+    subPath: tanzu-application-platform-system
