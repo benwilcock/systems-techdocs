@@ -1,6 +1,6 @@
-# Where For Dinner Techdocs Builder
+# Systems TechDocs
 
-This repo helps me build and publish technical documentation for a sample Backstage "System" called "Where For Dinner" and one of its Backstage "Components" called "Where For Dinner UI"
+This repo helps me build and publish technical documentation for a collection of Backstage "Systems".
 
 The [Dockerfile](Dockerfile) creates an image based on [Spotify/Techdocs]() and adds a script called [generateAndPublish.sh](generateAndPublish.sh) as the entrypoint.
 
@@ -18,4 +18,4 @@ docker run --rm --env-file .env -v ./:/tmp/catalog/ techdocs /tmp/catalog/catalo
 
 The [catalog-info.yaml](catalog-info.yaml) in the root of this repo is used as a signpost to say which techdocs the script should attempt to build and publish.
 
-Once you have built the `techdocs` image, you can use it anywhere you have a a similar `catalog-info.yaml` file. You are not restricted to only building Where For Dinner. 
+Once you have built the `techdocs` image, you can use it anywhere you have a similar `catalog-info.yaml` file. 
