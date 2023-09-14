@@ -12,7 +12,7 @@ There are lots of places where you can get help with the VMware® Tanzu Develope
 
 !!! info "VMware® Tanzu Labs™"
 
-    If you need practical help modernizing your development practices or rolling out developer portals to your organization, consider engaging with the experts at [VMware Tanzu Labs](https://tanzu.vmware.com/labs).
+    Tanzu Labs can provide practical hands-on advice to help you modernize your development practices. Whether your challenge is modernizing legacy code or rolling out agile methods or developer portals to your organization, consider engaging with the experts at [VMware Tanzu Labs](https://tanzu.vmware.com/labs).
 
 !!! info "Backstage Documentation"
 
