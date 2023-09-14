@@ -4,11 +4,11 @@ There are lots of places where you can get help with the VMware® Tanzu Develope
 
 !!! info "VMware® Tanzu Application Platform™ (TAP) Documentation"
 
-    The documentation for all versions of VMware® Tanzu Application Platform™ can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html).
+    Tanzu Developer Portal is part of Tanzu Application Platform. The documentation for all versions of VMware® Tanzu Application Platform™ can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/index.html).
 
 !!! info "VMware® Tanzu Application Service™ (TAS) Documentation"
 
-    The documentation for all versions of VMware® Tanzu Application Service™ can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/index.html).
+    Tanzu Developer Portal is part of Tanzu Application Service. The documentation for all versions of VMware® Tanzu Application Service™ can be found [here](https://docs.vmware.com/en/VMware-Tanzu-Application-Service/index.html).
 
 !!! info "VMware® Tanzu Labs™"
 
